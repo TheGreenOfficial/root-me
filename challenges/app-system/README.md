@@ -1,7 +1,8 @@
 ## Writeups for root-me challanges of catagory app-system..
 ```Link: https://www.root-me.org/en/Challenges/App-System/?tri_co=id_mot```
 
-<img width="2153" height="377" alt="image" src="https://github.com/user-attachments/assets/6cbb8fb8-8eb4-4cdb-a8da-4b1bea266fb8" />
+<img width="2176" height="404" alt="image" src="https://github.com/user-attachments/assets/d44c6b02-fc48-4fe1-b628-9941ffa7c543" />
+
 
 
 **We will be solving challanges according to difficulty low to high..**
@@ -193,3 +194,4 @@
 92. **ELF x64 - Remote Heap buffer overflow 1** — [read]()
 
 93. **ELF ARM64 - Multithreading** — [read]()
+
