@@ -1,8 +1,10 @@
 ## Writeups for root-me challenges of category Steganography
 ```Link: https://www.root-me.org/en/Challenges/Steganography/?tri_co=id_mot```
 
-<img width="2153" height="186" alt="image" src="https://github.com/user-attachments/assets/e6d46cc8-29f5-430d-b910-8c055287edc6" />
+<img width="2176" height="188" alt="image" src="https://github.com/user-attachments/assets/c16b00df-a18d-450f-9eda-39e6516f7742" />
 
+
+**We will be solving challanges according to difficulty low to high..**
 
 ### Start Reading
 
@@ -53,3 +55,4 @@
 23. **EXIF - Thumbnail** — [read]()
 
 24. **PNG - EMD** — [read]()
+
