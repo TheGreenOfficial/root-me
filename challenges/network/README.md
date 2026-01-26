@@ -1,7 +1,8 @@
 ## Writeups for root-me challanges of catagory network..
 ```Link: https://www.root-me.org/en/Challenges/Network/DNS-zone-transfert?tri_co=id_mot```
 
-<img width="2153" height="353" alt="image" src="https://github.com/user-attachments/assets/2b63ae45-d570-44b5-83d3-10829db1aaa1" />
+<img width="2176" height="366" alt="image" src="https://github.com/user-attachments/assets/0457a888-4379-4b50-bfbf-b889bd5aff71" />
+
 
 
 **We will be solving challanges according to difficulty low to high..**
@@ -77,4 +78,5 @@
 34. **RIPv1 - no authentication** — [read]()
 
 35. **WPA3 - SAE** — [read]()
+
 
