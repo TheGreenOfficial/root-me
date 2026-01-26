@@ -1,7 +1,8 @@
 ## Writeups for root-me challenges of category programming..
 ```Link: https://www.root-me.org/en/Challenges/Programming/Adversarial-Attack-Prison-Break?tri_co=id_mot```
 
-<img width="2153" height="421" alt="image" src="https://github.com/user-attachments/assets/c82ff2f5-f673-4bdf-aa56-b08558ec931a" />
+<img width="2176" height="438" alt="image" src="https://github.com/user-attachments/assets/907b2622-9ed5-4367-b4f6-3afc2f20f7e3" />
+
 
 
 **We will be solving challenges according to difficulty low to high..**
@@ -65,3 +66,4 @@
 28. **ELF x86 - Shellcoding - Alphanumeric** — [read]()
 
 29. **Adversarial Attack - Prison Break** — [read]()
+
