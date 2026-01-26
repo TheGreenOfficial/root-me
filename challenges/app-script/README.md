@@ -1,7 +1,8 @@
 ## Writeups for root-me challanges of catagory app-script..
 ``` Link: https://www.root-me.org/en/Challenges/App-Script/?tri_co=id_mot ```
 
-<img width="2153" height="377" alt="image" src="https://github.com/user-attachments/assets/050c5f67-9f0f-4f06-96fd-2e080ec2c809" />
+<img width="2176" height="404" alt="image" src="https://github.com/user-attachments/assets/991d073e-8a7d-44f0-8388-b668a163f9be" />
+
 
 
 **We will be solving challanges according to difficulty low to high..**
@@ -74,4 +75,5 @@
 32. **Python-Eval-Is-Evil** — [read]()
 
 33. **Deep-learning-Malicious-model** — [read]()
+
 
