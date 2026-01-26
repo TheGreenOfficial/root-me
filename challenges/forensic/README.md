@@ -1,7 +1,7 @@
 ## Writeups for root-me challanges of catagory forensic..
 ```Link: https://www.root-me.org/en/Challenges/Forensic/Deleted-file?tri_co=id_mot```
 
-<img width="2153" height="277" alt="image" src="https://github.com/user-attachments/assets/7e1b45e6-ffe7-4265-a8f8-2d408f34387c" />
+<img width="2176" height="270" alt="image" src="https://github.com/user-attachments/assets/272dfafb-510c-4349-97e5-a9ea7ff55254" />
 
 
 **We will be solving challanges according to difficulty low to high..**
@@ -95,3 +95,4 @@
 43. **Rootkit - Cold case** — [read]()
 
 44. **Try again 2** — [read]()
+
