@@ -1,8 +1,9 @@
 ## Writeups for root-me challenges of category Web-Client..
 ```Link: https://www.root-me.org/en/Challenges/Web-Client/HTML-disabled-buttons?tri_co=id_mot```
 
-<img width="2153" height="428" alt="image" src="https://github.com/user-attachments/assets/55622cfb-56e6-420a-87ca-dda6375b9cd6" />
+<img width="2176" height="438" alt="image" src="https://github.com/user-attachments/assets/607f4a3c-7e8c-41c1-bad7-e6abc6d3c143" />
 
+**We will be solving challanges according to difficulty low to high..**
 
 ## Start Reading
 
@@ -89,5 +90,6 @@
 41. **CSS - Exfiltration** — [read]()
 
 42. **Same Origin Method Execution** — [read]()
+
 
 
