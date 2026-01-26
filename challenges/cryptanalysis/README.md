@@ -1,7 +1,8 @@
 ## Writeups for root-me challanges of catagory cryptanalysis..
 ```Link: https://www.root-me.org/en/Challenges/Cryptanalysis/?tri_co=id_mot```
 
-<img width="2153" height="377" alt="image" src="https://github.com/user-attachments/assets/1d5b193f-4df5-4c33-879c-7e8a80c6fb40" />
+<img width="2176" height="418" alt="image" src="https://github.com/user-attachments/assets/e1c91451-95e5-49bf-89c1-d29c9ce52c7c" />
+
 
 
 **We will be solving challanges according to difficulty low to high..**
@@ -157,5 +158,6 @@
 74. **FEAL - Differential Cryptanalysis** — [read]()
 
 75. **ECDSA - Implementation error** — [read]()
+
 
 
