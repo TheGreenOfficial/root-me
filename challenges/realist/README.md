@@ -1,8 +1,10 @@
 ## Writeups for root-me challenges of category Realist..
 ```Link: https://www.root-me.org/en/Challenges/Realist/?tri_co=id_mot```
 
-<img width="2153" height="369" alt="image" src="https://github.com/user-attachments/assets/170ca24c-190b-4384-a7df-a74d7628b28b" />
+<img width="2176" height="350" alt="image" src="https://github.com/user-attachments/assets/e82222e5-4d87-4e0d-bc6c-a9766cd6335b" />
 
+
+**We will be solving challanges according to difficulty low to high..**
 
 ## Start Reading
 
@@ -129,3 +131,4 @@
 61. **Highway to shell** — [read]()
 
 62. **SamBox v4** — [read]()
+
