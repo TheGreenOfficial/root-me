@@ -1,7 +1,8 @@
 ## Writeups for root-me challanges of catagory cracking..
 ```Link: https://www.root-me.org/en/Challenges/Cracking/?tri_co=id_mot```
 
-<img width="2153" height="377" alt="image" src="https://github.com/user-attachments/assets/6eddb047-3738-40d2-91a8-4fec2c26a7d6" />
+<img width="2176" height="404" alt="image" src="https://github.com/user-attachments/assets/3a29f059-020c-4039-ae20-878f198ab710" />
+
 
 
 **We will be solving challanges according to difficulty low to high..**
@@ -147,3 +148,4 @@
 69. **Voracious Nanomites** — [read]()
 
 70. **White-Box Cryptography #2** — [read]()
+
