@@ -1,7 +1,7 @@
 ## Writeups for root-me challenges of category Web-Server..
 Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
-<img width="2153" height="428" alt="image" src="https://github.com/user-attachments/assets/a0b7de67-ee77-4446-92fa-327e9b1ec881" />
+<img width="2176" height="422" alt="image" src="https://github.com/user-attachments/assets/7afbdd8e-deb7-4338-95cf-153ec2f41339" />
 
 
 **We will be solving challenges according to difficulty low to high.**
@@ -202,3 +202,4 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
