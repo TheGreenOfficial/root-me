@@ -9,7 +9,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 ## Start Reading
 
-1. **HTML - Source code** — [read]()
+1. **HTML - Source code** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/1.md)
 
 2. **HTTP - Open redirect** — [read]()
 
@@ -202,4 +202,5 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
