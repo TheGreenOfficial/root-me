@@ -15,7 +15,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 3. **HTTP - User-agent** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/3.md)
 
-4. **Weak password** — [read]()
+4. **Weak password** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/4.md)
 
 5. **PHP - Command injection** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
