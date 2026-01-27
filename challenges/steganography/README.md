@@ -8,7 +8,7 @@
 
 ### Start Reading
 
-1. **EXIF - Metadata** — [read]()
+1. **EXIF - Metadata** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/steganography/writeups/1.md)
 
 2. **Steganomobile** — [read]()
 
@@ -55,4 +55,5 @@
 23. **EXIF - Thumbnail** — [read]()
 
 24. **PNG - EMD** — [read]()
+
 
