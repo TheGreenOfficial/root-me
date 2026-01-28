@@ -27,7 +27,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 9. **File upload - Double extensions** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/9.md)
 
-10. **Nginx - Root Location Misconfiguration** — [read]()
+10. **Nginx - Root Location Misconfiguration** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/10.md)
 
 11. **Nginx - Alias Misconfiguration** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
