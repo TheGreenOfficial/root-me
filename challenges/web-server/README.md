@@ -21,7 +21,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 6. **HTTP - IP restriction bypass** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/6.md)
 
-7. **Install files** — [read]()
+7. **Install files** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/7.md)
 
 8. **File upload - MIME type** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
