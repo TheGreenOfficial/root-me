@@ -43,7 +43,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 17. **Backup file** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/17.md)
 
-18. **API - Broken Access** — [read]()
+18. **API - Broken Access** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/18.md)
 
 19. **HTTP - Improper redirect** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
