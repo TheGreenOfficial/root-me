@@ -41,7 +41,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 16. **HTTP - Directory indexing** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/16.md)
 
-17. **Backup file** — [read]()
+17. **Backup file** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/17.md)
 
 18. **API - Broken Access** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
