@@ -26,7 +26,7 @@ If you want any content to be **private or removed**, just open an **issue** or 
 
 Even if this repository or my account gets taken down directly,  
 I always keep **backups** and mirror the content on:
-It will spread more I'll make sure that if somethin happenes to my repo or github account all flags will be properly uploaded on dark webs, my sites and on more and more fake github accounts and on telegrams and so on as much as possible mind it.
+It will spread more I'll make sure that if somethin happenes to my repo or github account all flags will be properly uploaded on dark webs, my sites and on more and more fake github accounts and on telegrams and so on as much as possible mind it cuz if once my account is banned I can't create new ith same name as its rn mind it properly I will make sure to destroy..
 
 ---
 
