@@ -32,4 +32,4 @@ It will spread more I'll make sure that if somethin happenes to my repo or githu
 
 ## 🙏 Thanks
 
-This content is meant for **learning, research, and improvement** — not harm.
+Take it positively and improte your flag submission feature. I don't care much if you ban my root-me account later lol..
