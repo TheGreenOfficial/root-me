@@ -35,7 +35,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 13. **HTTP - Verb tampering** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/13.md)
 
-14. **HTTP - POST** — [read]()
+14. **HTTP - POST** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/14.md)
 
 15. **HTTP - Headers** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
