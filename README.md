@@ -18,7 +18,7 @@
 
 **Programming     -  29 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/programming/README.md)**
 
-**Realist         -  62 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/realist/README.md))**
+**Realist         -  62 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/realist/README.md)**
 
 **Steganography   -  24 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/steganography/README.md)**
 
