@@ -22,25 +22,25 @@ Take it positively and improte your flag submission feature..
 
 ## Writeups for root-me challanges of different catagories..
 
-**App-Script      -  33 challenges  - [here]()**
+**App-Script      -  33 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/README.md#L60)**
 
-**App-System      -  93 challenges  - [here]()**
+**App-System      -  93 challenges  - [Starts Here]()**
 
-**Cracking        -  70 challenges  - [here]()**
+**Cracking        -  70 challenges  - [Starts Here]()**
 
-**Cryptanalysis   -  75 challenges  - [here]()**
+**Cryptanalysis   -  75 challenges  - [Starts Here]()**
 
-**Forensic        -  44 challenges  - [here]()**
+**Forensic        -  44 challenges  - [Starts Here]()**
 
-**Network         -  35 challenges  - [here]()**
+**Network         -  35 challenges  - [Starts Here]()**
 
-**Programming     -  29 challenges  - [here]()**
+**Programming     -  29 challenges  - [Starts Here]()**
 
-**Realist         -  62 challenges  - [here]()**
+**Realist         -  62 challenges  - [Starts Here]()**
 
-**Steganography   -  24 challenges  - [here]()**
+**Steganography   -  24 challenges  - [Starts Here]()**
 
-**Web-Client      -  42 challenges  - [here]()**
+**Web-Client      -  42 challenges  - [Starts Here]()**
 
 **Web-Server      -  97 challenges  - [here]()**
 
