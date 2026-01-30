@@ -47,7 +47,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 19. **HTTP - Improper redirect** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/19.md)
 
-20. **PHP - Serialization** — [read]()
+20. **PHP - Serialization** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/20.md)
 
 21. **XPath injection - Authentication** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
