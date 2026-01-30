@@ -22,7 +22,28 @@ Take it positively and improte your flag submission feature..
 
 ## Writeups for root-me challanges of different catagories..
 
-<img width="2153" height="1181" alt="image" src="https://github.com/user-attachments/assets/d4b9e6d2-3bb1-4446-9c13-7bb5c5822ba1" />
+## App-Script      -  33 challenges  - [here]()
+
+## App-System      -  93 challenges  - [here]()
+
+## Cracking        -  70 challenges  - [here]()
+
+## Cryptanalysis   -  75 challenges  - [here]()
+
+## Forensic        -  44 challenges  - [here]()
+
+## Network         -  35 challenges  - [here]()
+
+## Programming     -  29 challenges  - [here]()
+
+## Realist         -  62 challenges  - [here]()
+
+## Steganography   -  24 challenges  - [here]()
+
+## Web-Client      -  42 challenges  - [here]()
+
+## Web-Server      -  97 challenges  - [here]()
+
 
 ---
 
