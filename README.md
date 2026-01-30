@@ -26,8 +26,6 @@ Take it positively and improte your flag submission feature..
 
 ---
 
-# root-me/challanges/app-script
-
 ## Writeups for root-me challanges of catagory app-script..
 ``` Link: https://www.root-me.org/en/Challenges/App-Script/?tri_co=id_mot ```
 
@@ -107,8 +105,6 @@ Take it positively and improte your flag submission feature..
 33. **Deep-learning-Malicious-model** — [read]()
 
 ---
-
-# root-me/challanges/app-system
 
 ## Writeups for root-me challanges of catagory app-system..
 ```Link: https://www.root-me.org/en/Challenges/App-System/?tri_co=id_mot```
@@ -309,8 +305,6 @@ Take it positively and improte your flag submission feature..
 
 ---
 
-# root-me/challanges/cracking
-
 ## Writeups for root-me challanges of catagory cracking..
 ```Link: https://www.root-me.org/en/Challenges/Cracking/?tri_co=id_mot```
 
@@ -463,8 +457,6 @@ Take it positively and improte your flag submission feature..
 70. **White-Box Cryptography #2** — [read]()
 
 ---
-
-# root-me/challanges/cryptanalysis
 
 ## Writeups for root-me challanges of catagory cryptanalysis..
 ```Link: https://www.root-me.org/en/Challenges/Cryptanalysis/?tri_co=id_mot```
@@ -629,8 +621,6 @@ Take it positively and improte your flag submission feature..
 
 ---
 
-# root-me/challanges/forensic
-
 ## Writeups for root-me challanges of catagory forensic..
 ```Link: https://www.root-me.org/en/Challenges/Forensic/Deleted-file?tri_co=id_mot```
 
@@ -731,8 +721,6 @@ Take it positively and improte your flag submission feature..
 
 ---
 
-# root-me/challanges/network
-
 ## Writeups for root-me challanges of catagory network..
 ```Link: https://www.root-me.org/en/Challenges/Network/DNS-zone-transfert?tri_co=id_mot```
 
@@ -816,8 +804,6 @@ Take it positively and improte your flag submission feature..
 
 ---
 
-# root-me/challanges/programming
-
 ## Writeups for root-me challenges of category programming..
 ```Link: https://www.root-me.org/en/Challenges/Programming/Adversarial-Attack-Prison-Break?tri_co=id_mot```
 
@@ -888,8 +874,6 @@ Take it positively and improte your flag submission feature..
 29. **Adversarial Attack - Prison Break** — [read]()
 
 ---
-
-# root-me/challanges/realist
 
 ## Writeups for root-me challenges of category Realist..
 ```Link: https://www.root-me.org/en/Challenges/Realist/?tri_co=id_mot```
@@ -1027,8 +1011,6 @@ Take it positively and improte your flag submission feature..
 
 ---
 
-# root-me/challanges/steganography
-
 ## Writeups for root-me challenges of category Steganography
 ```Link: https://www.root-me.org/en/Challenges/Steganography/?tri_co=id_mot```
 
@@ -1088,8 +1070,6 @@ Take it positively and improte your flag submission feature..
 24. **PNG - EMD** — [read]()
 
 ---
-
-# root-me/challanges/web-client
 
 ## Writeups for root-me challenges of category Web-Client..
 ```Link: https://www.root-me.org/en/Challenges/Web-Client/HTML-disabled-buttons?tri_co=id_mot```
@@ -1185,8 +1165,6 @@ Take it positively and improte your flag submission feature..
 42. **Same Origin Method Execution** — [read]()
 
 ---
-
-# root-me/challanges/web-server
 
 ## Writeups for root-me challenges of category Web-Server..
 Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
