@@ -24,10 +24,6 @@
 
 ---
 
-## 🚧 Work In Progress..
-
----
-
 ## 📌 Notice for Root-Me Team & Community
 
 I’m publishing **Root-Me writeups** here for learning and documentation purposes.
