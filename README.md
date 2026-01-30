@@ -1,21 +1,5 @@
 ## 🚧 Work In Progress..
 
-For better readability, **use my site** 👉  
-🔗 https://sangampaudel.info.np/
-
----
-
-## ⚠️ Security Observation (Honest Feedback) to root-me:
-
-**root-me.org**, one major weakness is that **flags don’t change**.
-
-A better approach would be:
-- Rotate flags daily (or periodically)
-- Like in 2 days refresh flag randromly for all challenges.
-- Validate dynamically instead of static flags
-
-Right now, if a user finds a flag once and uploads it, it stays valid forever — which weakens the challenge integrity.
-
 ---
 
 ## 📌 Notice for Root-Me Team & Community
@@ -24,12 +8,23 @@ I’m publishing **Root-Me writeups** here for learning and documentation purpos
 
 If you want any content to be **private or removed**, just open an **issue** or notify me somehow.
 
-Even if this repository or my account gets taken down directly,  
-I always keep **backups** and mirror the content on:
-It will spread more and more..
-
----
+Honest Feedback:
+If you don't want that people solve all challanges from flags in writeups then better approach would be:
+- Rotate flags daily (or periodically)
+- Like in 2 days refresh flag randromly for all challenges.
+- Validate dynamically instead of static flags
 
 ## 🙏 Thanks
 
 Take it positively and improte your flag submission feature..
+
+---
+
+
+
+---
+
+For better readability, **use my site** 👉  
+🔗 https://sangampaudel.info.np/
+
+---
