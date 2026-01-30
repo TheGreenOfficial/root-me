@@ -1,7 +1,3 @@
-## 🚧 Work In Progress..
-
----
-
 ## Writeups for root-me challanges of different catagories..
 
 **App-Script      -  33 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/app-script/README.md)**
@@ -25,6 +21,10 @@
 **Web-Client      -  42 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-client/README.md)**
 
 **Web-Server      -  97 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/README.md)**
+
+---
+
+## 🚧 Work In Progress..
 
 ---
 
