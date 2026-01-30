@@ -8,7 +8,7 @@
 
 ## Start Reading
 
-1. **It happens, sometimes** — [read]()
+1. **It happens, sometimes** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/realist/writeups/1.md)
 
 2. **Windows - KerbeRoast** — [read]()
 
@@ -131,4 +131,5 @@
 61. **Highway to shell** — [read]()
 
 62. **SamBox v4** — [read]()
+
 
