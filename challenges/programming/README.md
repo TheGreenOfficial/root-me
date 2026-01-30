@@ -9,7 +9,7 @@
 
 ## Start Reading
 
-1. **TCP - Back to school** — [read]()
+1. **TCP - Back to school** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/programming/writeups/1.md)
 
 2. **TCP - Encoded string** — [read]()
 
@@ -66,4 +66,5 @@
 28. **ELF x86 - Shellcoding - Alphanumeric** — [read]()
 
 29. **Adversarial Attack - Prison Break** — [read]()
+
 
