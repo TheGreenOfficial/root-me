@@ -22,32 +22,32 @@ Take it positively and improte your flag submission feature..
 
 ## Writeups for root-me challanges of different catagories..
 
-**App-Script      -  33 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/README.md#L60)**
+**App-Script      -  33 challenges  - [Starts Here](#1)**
 
-**App-System      -  93 challenges  - [Starts Here]()**
+**App-System      -  93 challenges  - [Starts Here](#2)**
 
-**Cracking        -  70 challenges  - [Starts Here]()**
+**Cracking        -  70 challenges  - [Starts Here](#3)**
 
-**Cryptanalysis   -  75 challenges  - [Starts Here]()**
+**Cryptanalysis   -  75 challenges  - [Starts Here](#4)**
 
-**Forensic        -  44 challenges  - [Starts Here]()**
+**Forensic        -  44 challenges  - [Starts Here](#5)**
 
-**Network         -  35 challenges  - [Starts Here]()**
+**Network         -  35 challenges  - [Starts Here](#6)**
 
-**Programming     -  29 challenges  - [Starts Here]()**
+**Programming     -  29 challenges  - [Starts Here](#7)**
 
-**Realist         -  62 challenges  - [Starts Here]()**
+**Realist         -  62 challenges  - [Starts Here](#8)**
 
-**Steganography   -  24 challenges  - [Starts Here]()**
+**Steganography   -  24 challenges  - [Starts Here](#9)**
 
-**Web-Client      -  42 challenges  - [Starts Here]()**
+**Web-Client      -  42 challenges  - [Starts Here](#10)**
 
-**Web-Server      -  97 challenges  - [here]()**
+**Web-Server      -  97 challenges  - [Starts Here](#11)**
 
 
 ---
 
-## Writeups for root-me challanges of catagory app-script..
+## Writeups for root-me challanges of catagory app-script..<a id="1"></a>
 ``` Link: https://www.root-me.org/en/Challenges/App-Script/?tri_co=id_mot ```
 
 <img width="2176" height="404" alt="image" src="https://github.com/user-attachments/assets/991d073e-8a7d-44f0-8388-b668a163f9be" />
