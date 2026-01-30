@@ -28,11 +28,6 @@
 
 ---
 
-For better readability, **use my site** 👉  
-🔗 https://sangampaudel.info.np/
-
----
-
 ## 📌 Notice for Root-Me Team & Community
 
 I’m publishing **Root-Me writeups** here for learning and documentation purposes.
