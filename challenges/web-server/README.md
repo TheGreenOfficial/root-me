@@ -53,7 +53,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 22. **XML External Entity** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/22.md)
 
-23. **SQL Truncation** — [read]()
+23. **SQL Truncation** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/23.md)
 
 24. **SQL Injection - Routed** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
