@@ -36,8 +36,11 @@ If you don't want that people solve all challanges from flags in writeups then b
 - Like in 2 days refresh flag randromly for all challenges.
 - Validate dynamically instead of static flags
 
-## 🙏 Thanks
+---
 
-Take it positively and improte your flag submission feature..
+🔗 For better readability use my [site](https://sangampaudel.info.np/main.php?category=Root-Me&layout=grid):
+``` https://sangampaudel.info.np ```
 
 ---
+
+## 🙏 Thanks
