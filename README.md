@@ -12,6 +12,11 @@ If you don't want that people solve all challanges from flags in writeups then b
 
 ---
 
+🔗 For better readability use my [site](https://sangampaudel.info.np/main.php?category=Root-Me&layout=grid):<br>
+&nbsp;&nbsp;&nbsp;``` https://sangampaudel.info.np ```
+
+---
+
 ## Writeups for root-me challanges of different catagories..
 
 **App-Script      -  33 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/app-script/README.md)**
@@ -35,14 +40,5 @@ If you don't want that people solve all challanges from flags in writeups then b
 **Web-Client      -  42 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-client/README.md)**
 
 **Web-Server      -  97 challenges  - [Starts Here](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/README.md)**
-
----
-
-🔗 For better readability use my [site](https://sangampaudel.info.np/main.php?category=Root-Me&layout=grid):<br>
-&nbsp;&nbsp;&nbsp;``` https://sangampaudel.info.np ```
-
----
-
-## 🙏 Thanks
 
 ---
