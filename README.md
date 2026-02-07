@@ -10,6 +10,8 @@ If you don't want that people solve all challanges from flags in writeups then b
 - Like in 2 days refresh flag randromly for all challenges.
 - Validate dynamically instead of static flags
 
+Please take it positively and don't ruin my hard work banning my github account I swear to god if something happens to this repo or my github account I will take revenge..
+
 ---
 
 🔗 For better readability use my [site](https://sangampaudel.info.np/main.php?category=Root-Me&layout=grid):<br>
