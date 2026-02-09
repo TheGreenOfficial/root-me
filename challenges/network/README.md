@@ -9,7 +9,7 @@
 
 ## Start Reading
 
-1. **FTP - authentication** — [read]()
+1. **FTP - authentication** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/network/writeups/1.md)
 
 2. **ETHERNET - frame** — [read]()
 
@@ -78,5 +78,6 @@
 34. **RIPv1 - no authentication** — [read]()
 
 35. **WPA3 - SAE** — [read]()
+
 
 
