@@ -30,5 +30,5 @@
 <br>
 <br>
 
-**We can use this "" as flag/passwd to validate the challenge..** <br><br>
+**We can use this "" as flag/passwd to validate the challenge..** <br>
 **Thankyou.**
