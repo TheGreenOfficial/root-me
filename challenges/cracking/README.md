@@ -9,7 +9,7 @@
 
 ## Start Reading
 
-1. **ELF x86 - 0 protection** — [read]()
+1. **ELF x86 - 0 protection** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/cracking/writeups/1.md)
 
 2. **Godot - 0 protection** — [read]()
 
@@ -148,4 +148,5 @@
 69. **Voracious Nanomites** — [read]()
 
 70. **White-Box Cryptography #2** — [read]()
+
 
