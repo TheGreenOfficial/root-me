@@ -9,7 +9,7 @@
 
 ## Start Reading
 
-1. **Encoding - ASCII** — [read]()
+1. **Encoding - ASCII** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/cryptanalysis/writeups/1.md)
 
 2. **Hash - DCC** — [read]()
 
@@ -158,6 +158,7 @@
 74. **FEAL - Differential Cryptanalysis** — [read]()
 
 75. **ECDSA - Implementation error** — [read]()
+
 
 
 
