@@ -8,7 +8,7 @@
 
 ## Start Reading
 
-1. **Deleted file** — [read]()
+1. **Deleted file** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/forensic/writeups/1.md)
 
 2. **Command & Control - level 2** — [read]()
 
@@ -95,4 +95,5 @@
 43. **Rootkit - Cold case** — [read]()
 
 44. **Try again 2** — [read]()
+
 
