@@ -9,7 +9,7 @@
 
 ## Start Reading
 
-1. **ELF x86 - Stack buffer overflow basic 1** — [read]()
+1. **ELF x86 - Stack buffer overflow basic 1** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/app-system/writeups/1.md)
 
 2. **ELF x86 - Stack buffer overflow basic 2** — [read]()
 
@@ -194,4 +194,5 @@
 92. **ELF x64 - Remote Heap buffer overflow 1** — [read]()
 
 93. **ELF ARM64 - Multithreading** — [read]()
+
 
