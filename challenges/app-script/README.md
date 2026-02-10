@@ -10,7 +10,7 @@
 
 ## Start Reading
 
-1. **Bash-System-1** — [read]()
+1. **Bash-System-1** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/app-script/writeups/1.md)
 
 2. **Bash-System-2** — [read]()
 
@@ -75,5 +75,6 @@
 32. **Python-Eval-Is-Evil** — [read]()
 
 33. **Deep-learning-Malicious-model** — [read]()
+
 
 
