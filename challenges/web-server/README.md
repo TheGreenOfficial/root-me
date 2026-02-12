@@ -55,7 +55,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 23. **SQL Truncation** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/23.md)
 
-24. **SQL Injection - Routed** — [read]()
+24. **SQL Injection - Routed** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/24.md)
 
 25. **SQL injection - Numeric** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/25.md)
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
