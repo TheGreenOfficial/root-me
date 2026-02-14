@@ -59,7 +59,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 25. **SQL injection - Numeric** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/25.md)
 
-26. **LDAP injection - Authentication** — [read]()
+26. **LDAP injection - Authentication** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/26.md)
 
 27. **PHP - Path Truncation** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
