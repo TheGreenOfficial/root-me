@@ -65,7 +65,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 28. **NoSQL injection - Authentication** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/28.md)
 
-29. **Node - Serialize** — [read]()
+29. **Node - Serialize** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/29.md)
 
 30. **JWT - Unsecure Key Handling** — [read]()
 
@@ -202,6 +202,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 96. **XPath injection - Blind** — [read]()
 
 97. **SQL injection - Filter bypass** — [read]()
+
 
 
 
