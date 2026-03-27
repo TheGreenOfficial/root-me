@@ -69,7 +69,7 @@ Link: https://www.root-me.org/en/Challenges/Web-Server/?tri_co=id_mot
 
 30. **JWT - Unsecure Key Handling** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/30.md)
 
-31. **Elixir - EEx** — [read]()
+31. **Elixir - EEx** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-server/writeups/31.md)
 
 32. **API - Broken Access 2** — [read]()
 
